@@ -87,9 +87,11 @@ The model gave pretty good precisions and other metrics for the negative class/ 
 
 After working with neural network and SVM model our next strategy is to try ensemble methods designed to handle imbalanced data, like Balanced Random Forest.
 
+### 3. Random Forest Classifier Model:
+
 - Here, we created multiple decision trees using different random subsets of the data and features to reach a more accurate prediction or result.
 
-•	Best Model: We used oversampled data with the `RandomOverSampler` technique.
+•	**Best Model:** We used oversampled data with the `RandomOverSampler` technique.
 - 	Random oversampling involves randomly duplicating examples from the minority class and adding them to the training dataset.
 - Ideal for imbalanced and skewed data.
 - The model resulted in a high overall accuracy rate of 98.25% and an exceptional recall for positive hits at 100%.
