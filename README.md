@@ -117,7 +117,8 @@ References:
 - https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62
 
 
-- Project Contributors: 
+
+- **Project Contributors:**
 
 - Data Preprocessing and Neural Network Model (Annie Josephrajan)
 - SQL and Tableau Visualizations (Brian Stumm)
